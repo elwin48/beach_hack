@@ -1,0 +1,26 @@
+TECHSTACK
+Different  tech stacks used in this project are:
+
+Unity
+
+Unity is a cross-platform game engine developed by Unity Technologies, for creation of 3D objects,AR/VR experience.
+
+ 
+
+Vuforia
+
+Vuforia is an augmented reality software development kit (SDK) for mobile devices that enables the creation of augmented reality applications.[1] It uses computer vision technology to recognize and track planar images and 3D objects in real time. This image registration capability enables developers to position and orient virtual objects, such as 3D models and other media, in relation to real world objects when they are viewed through the camera of a mobile device. 
+
+Sketchfab
+
+Sketchfab is a 3D model sharing platform and marketplace. It is used to publish, share, discover, buy and sell 3D, VR and AR content. It provides an in-browser 3D model viewer based on WebGL and WebXR for viewing 3D models on the web.
+
+ 
+
+Blender/Maya
+
+Autodesk Maya, commonly shortened to just Maya (/ˈmaɪə/ MY-ə[3][4]), is a 3D computer graphics application that runs on Windows, macOS and Linux, originally developed by Alias and currently owned and developed by Autodesk. It is used to create assets for interactive 3D applications (including video games), animated films, TV series, and visual effects.
+
+ 
+
+Blender is a useful application that can be used for creating 2D and 3D models. It has got all the necessary for modeling, lighting, animation, texturing and even video post processing.
